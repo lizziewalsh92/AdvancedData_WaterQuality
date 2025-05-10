@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Lead Service Line Lookup</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+
+        input,
+        button {
+            font-size: 1rem;
+            padding: 10px;
+            margin-top: 10px;
+            width: 100%;
+        }
+
+        #output {
+            margin-top: 20px;
+            background: #fff;
+            padding: 15px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Check for Lead Pipes (Test)</h1>
+    <input type="text" id="address-input" placeholder="Enter address (e.g. 47-30 196 PLACE)" />
+    <button id="check-button">Check</button>
+    <div id="output"></div>
+    <script>
+
+        let geoData = [];
+
+        // Load the full GeoJSON file, make sure to add ./ so it looks in the folder
+        fetch('./lead-address-slim.geojson')
+      .then(response => response.json())
+      .then(leadAddressSlim => {
+        //put custom output statement//
+      })
+      .catch(error => console.error('Error loading geojson:', error));
+
+        document.getElementById("check-button").addEventListener("click", () => {
+            const input = document.getElementById("address-input").value.trim().toUpperCase();
+            const output = document.getElementById("output");
+
+            if (!geoData.length) {
+                output.innerHTML = "<p>Address data not loaded yet. Please wait...</p>";
+                return;
+            }
+
+            const match = geoData.find(feature => {
+                const props = feature.properties;
+                const addr = (props.FullAddress || props.address || "").toUpperCase().trim();
+                return addr.includes(input);
+            });
+
+            if (match) {
+                const props = match.properties;
+                output.innerHTML = `
+          <p><strong>Match found:</strong><br>
+          Address: ${props.FullAddress}<br>
+          Material: ${props.MATERIAL_GROUP}</p>
+        `;
+            } else {
+                output.innerHTML = "<p>No match found. Double-check spelling and try full street names (e.g. 'STREET').</p>";
+            }
+        });
+    </script>
+
+</html>

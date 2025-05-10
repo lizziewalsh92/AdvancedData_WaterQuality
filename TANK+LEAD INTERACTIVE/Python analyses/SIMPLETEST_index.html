@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Lead Pipe Checker</title>
+</head>
+
+<body>
+    <h1>Check for Lead Pipes</h1>
+    <input type="text" id="address-input" placeholder="Enter your address">
+    <button id="submit-button">Check</button>
+    <div id="result"></div>
+
+    <script>
+        let leadData = {
+  "type" : "FeatureCollection", 
+  "properties" : {
+    "exceededTransferLimit" : true
+  }, 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 1, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -73.7935217524722, 40.7460139694005
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 1, 
+        "FullAddress" : "175-25 PECK AVENUE , Queens              ", 
+        "address" : "175-25 PECK AVENUE                     ", 
+        "BBL" : "4055900067", 
+        "BIN" : 4126325, 
+        "MATERIAL_GROUP" : "Not Lead", 
+        "RECORD_TYPE" : "HISTORICAL DATA", 
+        "FEATURE_CODE" : 2100, 
+        "ORIG_FID" : 1
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 2, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -73.7937706853321, 40.7455267842611
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 2, 
+        "FullAddress" : "49-50 175 PLACE , Queens              ", 
+        "address" : "49-50 175 PLACE                      ", 
+        "BBL" : "4055910024", 
+        "BIN" : 4126344, 
+        "MATERIAL_GROUP" : "Not Lead", 
+        "RECORD_TYPE" : "HISTORICAL DATA", 
+        "FEATURE_CODE" : 2100, 
+        "ORIG_FID" : 2
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 3, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -73.7933669940084, 40.7441304018689
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 3, 
+        "FullAddress" : "50-11 175 PLACE , Queens              ", 
+        "address" : "50-11 175 PLACE                      ", 
+        "BBL" : "4055950024", 
+        "BIN" : 4126414, 
+        "MATERIAL_GROUP" : "Not Lead", 
+        "RECORD_TYPE" : "HISTORICAL DATA", 
+        "FEATURE_CODE" : 2100, 
+        "ORIG_FID" : 3
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -73.7933486888007, 40.7442389731614
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 4, 
+        "FullAddress" : "50-07 175 PLACE , Queens              ", 
+        "address" : "50-07 175 PLACE                      ", 
+        "BBL" : "4055950026", 
+        "BIN" : 4126415, 
+        "MATERIAL_GROUP" : "Unknown", 
+        "RECORD_TYPE" : "HISTORICAL DATA", 
+        "FEATURE_CODE" : 2100, 
+        "ORIG_FID" : 4
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 5, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -73.7949166525183, 40.7424604050558
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 5, 
+        "FullAddress" : "56-16 175 STREET , Queens              ", 
+        "address" : "56-16 175 STREET                     ", 
+        "BBL" : "4055970032", 
+        "BIN" : 4126456, 
+        "MATERIAL_GROUP" : "Not Lead", 
+        "RECORD_TYPE" : "HISTORICAL DATA", 
+        "FEATURE_CODE" : 2100, 
+        "ORIG_FID" : 5
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 6, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -73.7859727441061, 40.7505988609785
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 6, 
+        "FullAddress" : "47-63 194 STREET , Queens              ", 
+        "address" : "47-63 194 STREET                     ", 
+        "BBL" : "4056130005", 
+        "BIN" : 4126893, 
+        "MATERIAL_GROUP" : "Unknown", 
+        "RECORD_TYPE" : "UNAVAILABLE", 
+        "FEATURE_CODE" : 2100, 
+        "ORIG_FID" : 6
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 7, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -73.7866343579575, 40.7519219702823
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 7, 
+        "FullAddress" : "47-11 194 STREET , Queens              ", 
+        "address" : "47-11 194 STREET                     ", 
+        "BBL" : "4056130032", 
+        "BIN" : 4126906, 
+        "MATERIAL_GROUP" : "Not Lead", 
+        "RECORD_TYPE" : "HISTORICAL DATA", 
+        "FEATURE_CODE" : 2100, 
+        "ORIG_FID" : 7
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -73.7841418587112, 40.7508897874799
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 8, 
+        "FullAddress" : "47-65 196 STREET , Queens              ", 
+        "address" : "47-65 196 STREET                     ", 
+        "BBL" : "4056150002", 
+        "BIN" : 4126980, 
+        "MATERIAL_GROUP" : "Unknown", 
+        "RECORD_TYPE" : "UNAVAILABLE", 
+        "FEATURE_CODE" : 2100, 
+        "ORIG_FID" : 8
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 9, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -73.784439815378, 40.7515316049182
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 9, 
+        "FullAddress" : "47-39 196 STREET , Queens              ", 
+        "address" : "47-39 196 STREET                     ", 
+        "BBL" : "4056150014", 
+        "BIN" : 4126990, 
+        "MATERIAL_GROUP" : "Unknown", 
+        "RECORD_TYPE" : "HISTORICAL DATA", 
+        "FEATURE_CODE" : 2100, 
+        "ORIG_FID" : 9
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 10, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -73.7840819093433, 40.751805902206
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 10, 
+        "FullAddress" : "47-30 196 PLACE , Queens              ", 
+        "address" : "47-30 196 PLACE                      ", 
+        "BBL" : "4056150051", 
+        "BIN" : 4127006, 
+        "MATERIAL_GROUP" : "Not Lead", 
+        "RECORD_TYPE" : "HISTORICAL DATA", 
+        "FEATURE_CODE" : 2100, 
+        "ORIG_FID" : 10
+      }
+    }
+  ]
+}
+
+    
+  document.getElementById("submit-button").addEventListener("click", function () {
+    const inputAddress = document.getElementById("address-input").value.trim().toUpperCase();
+    const match = leadData.features.find(feature =>
+      feature.properties.FullAddress.trim().toUpperCase().includes(inputAddress)
+    );
+
+    const outputDiv = document.getElementById("result");
+
+    if (match) {
+      outputDiv.innerHTML = `<p><strong>Result:</strong> ${match.properties.MATERIAL_GROUP}</p>`;
+    } else {
+      outputDiv.innerHTML = `<p>No match found. Try again or check the formatting.</p>`;
+    }
+  });
+
+    </script>
+</body>
+
+</html>

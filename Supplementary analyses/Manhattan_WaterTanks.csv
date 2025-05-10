@@ -1,0 +1,36 @@
+,BOROUGH,ADDRESS,ZIP,# of Tanks,INSPECTION_DATE,INTERNAL_STRUCTURE,EXTERNAL_STRUCTURE,SEDIMENT,BIOLOGICAL_GROWTH,DEBRIS_INSECTS,RODENT_BIRD,COLIFORM,ECOLI,LATITUDE,LONGITUDE,COMMUNITY_BOARD,COUNCIL_DISTRICT,CENSUS_TRACT,# OF VIOLATIONS
+1,MANHATTAN,100 Centre street,10013,2,2023-11-28,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29,1
+3,MANHATTAN,125 worth street,10013,1,2020-12-19,Violation,Meets standards,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31,4
+30,MANHATTAN,80 Centre street,10013,1,2021-12-19,Violation,Violation,Violation,Violation,Meets standards,Meets standards,,,40.715447,-74.00189,1,1,29,4
+37,MANHATTAN,125 worth street,10013,2,2022-05-23,Violation,Meets standards,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31,4
+47,MANHATTAN,80 Centre street,10013,1,2021-12-19,Violation,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.715447,-74.00189,1,1,29,4
+58,MANHATTAN,125 worth street,10013,1,2021-12-10,Violation,Meets standards,Violation,Violation,Meets standards,Meets standards,,,40.715428,-74.002673,1,1,31,3
+63,MANHATTAN,100 Centre street,10013,2,2024-11-27,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29,1
+64,MANHATTAN,125 worth street,10013,2,2022-05-23,Violation,Meets standards,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31,4
+70,MANHATTAN,100 Centre street,10013,1,2021-12-05,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,,,40.716084,-74.001425,1,1,29,3
+75,MANHATTAN,125 worth street,10013,2,2021-12-10,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,,,40.715428,-74.002673,1,1,31,2
+80,MANHATTAN,80 Centre Street,10013,1,2022-06-01,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.715447,-74.00189,1,1,29,2
+83,MANHATTAN,100 Centre street,10013,1,2021-12-05,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29,3
+95,MANHATTAN,100 Centre Street,10013,4,2022-05-26,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29,3
+100,MANHATTAN,100 Centre Street,10013,1,2022-05-06,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29,3
+102,MANHATTAN,100 Centre Street,10013,4,2022-05-26,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29,3
+104,MANHATTAN,80 centre street,10013,1,2020-12-19,Violation,Violation,Violation,Violation,Violation,Violation,Meets standards,Meets standards,40.715447,-74.00189,1,1,29,6
+108,MANHATTAN,160 Madison Street,10002,2,2020-10-22,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Violation,Meets standards,Meets standards,40.712488,-73.991924,3,1,6,1
+114,MANHATTAN,100 centre street,10013,1,2020-12-05,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29,3
+117,MANHATTAN,125 worth street,10013,2,2020-12-19,Violation,Meets standards,Violation,Violation,Violation,Violation,Meets standards,Meets standards,40.715428,-74.002673,1,1,31,5
+118,MANHATTAN,125 worth street,10013,1,2022-05-23,Violation,Meets standards,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31,4
+122,MANHATTAN,100 Centre Street,10013,1,2022-05-06,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29,3
+123,MANHATTAN,125 worth street,10013,1,2022-05-23,Violation,Meets standards,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31,4
+125,MANHATTAN,125 worth street,10013,1,2021-12-10,Violation,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31,3
+129,MANHATTAN,125 worth street,10013,2,2022-05-23,Violation,Meets standards,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31,4
+130,MANHATTAN,100 centre street,10013,2,2020-12-05,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29,3
+136,MANHATTAN,125 worth street,10013,1,2022-05-23,Violation,Meets standards,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31,4
+143,MANHATTAN,125 worth street,10013,2,2021-12-10,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31,2
+144,MANHATTAN,100 Centre street,10013,1,2023-11-28,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29,1
+163,MANHATTAN,100 Centre street,10013,1,2024-11-27,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29,1
+167,MANHATTAN,100 Centre Street,10013,3,2022-05-06,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29,3
+182,MANHATTAN,100 Centre Street,10013,3,2022-05-06,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29,3
+190,MANHATTAN,160 Madison Street,10002,1,2020-10-21,Meets standards,Meets standards,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.712488,-73.991924,3,1,6,1
+195,MANHATTAN,100 centre street,10013,3,2020-12-05,Meets standards,Violation,Meets standards,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29,2
+196,MANHATTAN,100 Centre Street,10013,2,2022-05-06,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29,3
+197,MANHATTAN,100 Centre Street,10013,2,2022-05-06,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29,3

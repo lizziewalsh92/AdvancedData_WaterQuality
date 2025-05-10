@@ -1,0 +1,72 @@
+,ADDRESS_NORM,SUM_SEDIMENT,SUM_BIOLOGICAL_GROWTH,SUM_DEBRIS_INSECTS,SUM_RODENT_BIRD,SUM_COLIFORM,SUM_ECOLI,ADDRESS,LATITUDE,LONGITUDE
+0,1 centre street,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,1 centre street,40.713001,-74.004181
+1,100 centre street,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,100 Centre street,40.716084,-74.001425
+2,100 dreiser loop,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,100 Dreiser Loop,40.878155,-73.82813
+3,1020 fifth avenue,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,1020 Fifth Avenue,40.779558,-73.961531
+4,1056 fifth avenue,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,1056 Fifth Avenue,40.782107,-73.959988
+5,108 west 39th st,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,108 West 39th St,40.753173,-73.986075
+6,111 john st,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,111 John St,40.707671,-74.005764
+7,1118 grand concourse,Violation,Meets standards,Violation,Violation,Meets standards,Meets standards,1118 Grand Concourse,40.832232,-73.919655
+8,121 west 27th st,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,121 West 27th St,40.745831,-73.991916
+9,1220 fifth avenue,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,1220 Fifth Avenue,40.792438,-73.952448
+10,125 worth street,Violation,Violation,Violation,Violation,Meets standards,Meets standards,125 worth street,40.715428,-74.002673
+11,136 east 57 street,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,136 East 57 Street,40.760822,-73.968898
+12,138 willoughby street,Violation,Meets standards,Violation,Meets standards,Violation,Meets standards,138 Willoughby Street,40.692069,-73.983135
+13,140 east 72nd street,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,140 East 72nd Street,40.770533,-73.962493
+14,1420 wood road,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,1420 Wood Road,40.835886,-73.862277
+15,145 west 44 street,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,145 West 44 Street,40.756667,-73.984396
+16,1469 east avenue,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,1469 East Avenue,40.83674,-73.860183
+17,1470 west avenue,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,1470 West Avenue,40.83692,-73.861433
+18,15 west 56th street,Violation,Meets standards,Violation,Violation,Meets standards,Meets standards,15 West 56th Street,40.76264,-73.975258
+19,150 william street,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,150 William Street,40.709729,-74.006255
+20,1551 unionport road,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,1551 Unionport Road,40.836926,-73.857433
+21,1560 metropolitan ave,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,1560 Metropolitan Ave,40.839754,-73.857904
+22,160 madison street,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,160 Madison Street,40.712488,-73.991924
+23,1655 flatbush avenue,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,1655 Flatbush Avenue,40.630096,-73.944757
+24,18 boerum st,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,18 Boerum St,40.705321,-73.948954
+25,181 convent avenue,Violation,Meets standards,Meets standards,Meets standards,Violation,Meets standards,181 Convent Avenue,40.819574,-73.949921
+26,190 willoughby street,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,190 Willoughby Street,40.691958,-73.980152
+27,201 east 62nd street,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,201 East 62nd Street,40.763296,-73.964869
+28,210 joralemon street,Violation,Meets standards,Violation,Violation,Meets standards,Meets standards,210 Joralemon Street,40.692459,-73.990491
+29,22 metropolitan oval,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,22 Metropolitan Oval,40.838196,-73.85911
+30,225 broadway,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,225 Broadway,40.71187,-74.008217
+31,230 east 115th street,Meets standards,Meets standards,Violation,Meets standards,Meets standards,Meets standards,230 East 115th Street,40.796689,-73.939208
+32,25 west 32 street,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,25 West 32 Street,40.747535,-73.986372
+33,265 east 161 street,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,265 east 161 street,40.825928,-73.919514
+34,270 w 89th st,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,270 W 89th St,40.790557,-73.975862
+35,30 west 70th st,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,30 West 70th St,40.77533,-73.977922
+36,300 jay street,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,300 Jay Street,40.695547,-73.98714
+37,301 east 66th street,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,301 East 66th Street,40.764846,-73.960789
+38,305 east 40th street,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,305 East 40th Street,40.748469,-73.972954
+39,31 chambers street,Violation,Violation,Violation,Violation,Meets standards,Meets standards,31 Chambers street,40.713402,-74.004635
+40,31 west 17 street,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,31 West 17 Street,40.738418,-73.993393
+41,310 east 46th street,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,310 East 46th Street,40.752154,-73.969834
+42,34-27 34th st,Meets standards,Violation,Meets standards,Violation,Meets standards,Violation,34-27 34th St,40.758027,-73.925263
+43,345 adams street,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,345 adams street,40.6934,-73.988915
+44,35 hale street,Meets standards,Meets standards,Meets standards,Meets standards,Violation,Violation,35 hale street,40.514811,-74.236572
+45,360 adams street,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,360 adams street,40.694122,-73.988904
+46,382 third ave,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,382 Third Ave,40.741641,-73.981112
+47,4 irving place,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,4 Irving Place,40.734163,-73.988627
+48,4 sutton place,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,4 Sutton Place,40.757512,-73.960576
+49,40-35 72 street,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40-35 72 Street,40.74598,-73.893442
+50,44 metropolitan oval,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,44 Metropolitan Oval,40.837755,-73.859639
+51,441 ninth ave,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,441 Ninth Ave,40.753758,-73.996048
+52,45 monroe place,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,45 monroe place,40.695822,-73.992802
+53,455 east 57th street,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,455 East 57th Street,40.757809,-73.961713
+54,47 east 88th street,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,47 East 88th Street,40.78198,-73.95741
+55,520 12th ave,Meets standards,Meets standards,Meets standards,Violation,Meets standards,Meets standards,520 12th Ave,40.762316,-74.000036
+56,53 east 66th street,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,53 East 66th Street,40.767746,-73.967668
+57,541 lexington avenue,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,541 Lexington Avenue,40.756162,-73.972593
+58,60 centre street,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,60 centre street,40.714467,-74.002503
+59,62 hanson place,Meets standards,Meets standards,Meets standards,Meets standards,Violation,Meets standards,62 HANSON PLACE,40.685414,-73.975096
+60,640 east 137 street,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,640 East 137 Street,40.805087,-73.91553
+61,70 east 108th street,Meets standards,Meets standards,Meets standards,Violation,Meets standards,Meets standards,70 East 108th Street,40.794429,-73.947434
+62,70 lenox ave,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,70 Lenox Ave,40.800288,-73.95094
+63,720 park avenue,Meets standards,Meets standards,Meets standards,Violation,Meets standards,Meets standards,720 Park Avenue,40.76995,-73.964681
+64,80 centre street,Violation,Violation,Violation,Violation,Meets standards,Meets standards,80 Centre street,40.715447,-74.00189
+65,812 fifth avenue,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,812 Fifth Avenue,40.766378,-73.971459
+66,851 grand concourse,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,851 Grand Concourse,40.826048,-73.923102
+67,866 third ave,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,866 Third Ave,40.757435,-73.9696
+68,90 prince st,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,90 prince st,40.72451,-73.998358
+69,955 fifth avenue,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,955 Fifth Avenue,40.775466,-73.96483
+70,969 fifth avenue,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,969 Fifth Avenue,40.776111,-73.963992

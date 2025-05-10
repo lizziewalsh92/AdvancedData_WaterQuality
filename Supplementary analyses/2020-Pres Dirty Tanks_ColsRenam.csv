@@ -1,0 +1,206 @@
+BOROUGH,ADDRESS,ZIP,# of Tanks,INSPECTION_DATE,INTERNAL_STRUCTURE,EXTERNAL_STRUCTURE,SEDIMENT,BIOLOGICAL_GROWTH,DEBRIS_INSECTS,RODENT_BIRD,COLIFORM,ECOLI,LATITUDE,LONGITUDE,COMMUNITY_BOARD,COUNCIL_DISTRICT,CENSUS_TRACT
+MANHATTAN,1220 Fifth Avenue,10029,1,5/5/21,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.792438,-73.952448,11,8,168
+MANHATTAN,100 Centre street,10013,2,11/28/23,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29
+MANHATTAN,47 East 88th Street,10128,1,4/20/21,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.78198,-73.95741,8,4,15002
+MANHATTAN,125 worth street,10013,1,12/19/20,Violation,Meets standards,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31
+MANHATTAN,31 Chambers street,10007,1,11/21/20,Violation,Violation,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,40.713402,-74.004635,1,1,31
+MANHATTAN,301 East 66th Street,10065,1,3/11/21,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.764846,-73.960789,8,5,118
+MANHATTAN,455 East 57th Street,10022,1,10/21/20,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.757809,-73.961713,6,5,10601
+BROOKLYN,138 Willoughby Street,11201,5,6/20/22,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.692069,-73.983135,2,33,15
+MANHATTAN,1 centre street,10007,4,4/26/22,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.713001,-74.004181,1,1,29
+BRONX,851 Grand Concourse,10451,2,11/21/20,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.826048,-73.923102,4,8,63
+BROOKLYN,45 monroe place,11201,1,11/28/21,Violation,Meets standards,Violation,Violation,Meets standards,Meets standards,,,40.695822,-73.992802,2,33,502
+MANHATTAN,4 Irving Place,10003,2,2/27/24,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.734163,-73.988627,6,2,50
+MANHATTAN,1220 Fifth Avenue,10029,1,5/5/21,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.792438,-73.952448,11,8,168
+MANHATTAN,25 West 32 Street,10001,1,10/5/21,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.747535,-73.986372,5,4,76
+BRONX,1420 Wood Road,10462,1,11/3/20,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.835886,-73.862277,9,18,21602
+BRONX,265 east 161 street,10451,1,12/15/22,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.825928,-73.919514,4,16,18302
+MANHATTAN,140 East 72nd Street,10021,1,3/31/21,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.770533,-73.962493,8,4,128
+MANHATTAN,1 Centre street,10007,1,11/28/23,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.713001,-74.004181,1,1,29
+MANHATTAN,225 Broadway,10007,1,10/11/21,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.71187,-74.008217,1,1,21
+MANHATTAN,1 Centre street,10007,2,11/20/24,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.713001,-74.004181,1,1,29
+BROOKLYN,345 adams street,11201,1,11/28/21,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.6934,-73.988915,2,33,11
+MANHATTAN,1 centre street,10007,2,4/26/22,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.713001,-74.004181,1,1,29
+MANHATTAN,270 W 89th St,10024,1,10/12/21,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.790557,-73.975862,7,6,175
+BRONX,1118 Grand Concourse,10456,1,11/21/21,Meets standards,Violation,Violation,Meets standards,Violation,Violation,Meets standards,Meets standards,40.832232,-73.919655,4,16,18102
+MANHATTAN,1 Centre street,10007,3,11/20/24,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.713001,-74.004181,1,1,29
+STATEN ISLAND,35 hale street,10307,1,2/4/22,Meets standards,Meets standards,Meets standards,,Meets standards,,Violation,Violation,40.514811,-74.236572,3,51,248
+MANHATTAN,305 East 40th Street,10016,1,4/29/21,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.748469,-73.972954,6,4,88
+BROOKLYN,345 adams street,11201,3,11/28/21,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,,,40.6934,-73.988915,2,33,11
+BRONX,1118 grand concourse,10456,1,12/15/22,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.832232,-73.919655,4,16,18102
+BROOKLYN,360 adams street,11201,1,12/12/21,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.694122,-73.988904,2,33,11
+MANHATTAN,80 Centre street,10013,1,12/19/21,Violation,Violation,Violation,Violation,Meets standards,Meets standards,,,40.715447,-74.00189,1,1,29
+MANHATTAN,812 Fifth Avenue,10065,1,4/26/21,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.766378,-73.971459,8,4,11401
+MANHATTAN,111 John St,10038,2,4/4/22,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.707671,-74.005764,1,1,1502
+BROOKLYN,138 Willoughby Street,11201,1,6/14/21,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.692069,-73.983135,2,33,15
+MANHATTAN,969 Fifth Avenue,10075,1,8/31/20,Meets standards,Meets standards,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,40.776111,-73.963992,8,4,142
+MANHATTAN,225 Broadway,10007,3,10/11/21,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.71187,-74.008217,1,1,21
+MANHATTAN,720 Park Avenue,10021,1,6/23/21,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Violation,Meets standards,Meets standards,40.76995,-73.964681,8,4,130
+MANHATTAN,125 worth street,10013,2,5/23/22,Violation,Meets standards,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31
+MANHATTAN,225 Broadway,10007,4,10/11/21,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.71187,-74.008217,1,1,21
+BROOKLYN,138 Willoughby Street,11201,1,6/20/22,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.692069,-73.983135,2,33,15
+MANHATTAN,1 Centre street,10007,2,11/28/23,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.713001,-74.004181,1,1,29
+MANHATTAN,111 John St,10038,1,11/10/21,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.707671,-74.005764,1,1,1502
+MANHATTAN,108 West 39th St,10018,1,12/20/21,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.753173,-73.986075,5,4,113
+BROOKLYN,210 Joralemon Street,11201,2,11/28/20,Violation,Violation,Violation,Meets standards,Violation,Violation,Meets standards,Meets standards,40.692459,-73.990491,2,33,9
+MANHATTAN,60 centre street,10007,2,12/19/21,Violation,Meets standards,Violation,Meets standards,Violation,Meets standards,,,40.714467,-74.002503,1,1,29
+BROOKLYN,45 monroe place,11201,1,10/26/24,Violation,Meets standards,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.695822,-73.992802,2,33,502
+STATEN ISLAND,35 Hale Street,10307,1,1/1/20,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.514811,-74.236572,3,51,248
+MANHATTAN,80 Centre street,10013,1,12/19/21,Violation,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.715447,-74.00189,1,1,29
+MANHATTAN,4 Irving Place,10003,1,3/28/23,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.734163,-73.988627,6,2,50
+BROOKLYN,345 Adams street,11201,2,12/5/24,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.6934,-73.988915,2,33,11
+MANHATTAN,53 East 66th Street,10065,1,4/30/21,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.767746,-73.967668,8,4,122
+MANHATTAN,145 West 44 Street,10036,2,12/16/20,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.756667,-73.984396,5,4,119
+MANHATTAN,121 West 27th St,10001,1,7/11/22,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.745831,-73.991916,5,3,95
+MANHATTAN,140 East 72nd Street,10021,1,3/31/21,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.770533,-73.962493,8,4,128
+MANHATTAN,15 West 56th Street,10019,1,2/11/21,Meets standards,Meets standards,Violation,Meets standards,Violation,Violation,Meets standards,Meets standards,40.76264,-73.975258,5,4,11201
+BROOKLYN,138 Willoughby Street,11201,2,6/14/21,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.692069,-73.983135,2,33,15
+BROOKLYN,360 Adams street,11201,1,11/1/23,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.694122,-73.988904,2,33,11
+MANHATTAN,150 William Street,10038,2,11/10/21,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.709729,-74.006255,1,1,1501
+MANHATTAN,125 worth street,10013,1,12/10/21,Violation,Meets standards,Violation,Violation,Meets standards,Meets standards,,,40.715428,-74.002673,1,1,31
+STATEN ISLAND,35 hale street,10307,1,2/4/22,Meets standards,Meets standards,Meets standards,,Meets standards,,Violation,Violation,40.514811,-74.236572,3,51,248
+BROOKLYN,210 Joralemon Street,11201,3,11/28/20,Violation,Violation,Violation,Meets standards,Violation,Violation,Meets standards,Meets standards,40.692459,-73.990491,2,33,9
+BRONX,1551 Unionport Road,10462,1,10/19/20,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.836926,-73.857433,9,18,212
+MANHATTAN,111 John St,10038,3,4/4/22,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.707671,-74.005764,1,1,1502
+MANHATTAN,100 Centre street,10013,2,11/27/24,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29
+MANHATTAN,125 worth street,10013,2,5/23/22,Violation,Meets standards,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31
+MANHATTAN,1 Centre street,10007,1,11/20/24,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.713001,-74.004181,1,1,29
+BROOKLYN,360 adams street,11201,1,12/12/21,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,,,40.694122,-73.988904,2,33,11
+MANHATTAN,225 Broadway,10007,2,10/11/21,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.71187,-74.008217,1,1,21
+BRONX,1469 East Avenue,10462,1,10/21/20,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.83674,-73.860183,9,18,212
+MANHATTAN,230 East 115th Street,10029,1,9/30/20,Violation,Meets standards,Meets standards,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.796689,-73.939208,11,8,180
+MANHATTAN,100 Centre street,10013,1,12/5/21,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,,,40.716084,-74.001425,1,1,29
+MANHATTAN,47 East 88th Street,10128,1,4/20/21,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.78198,-73.95741,8,4,15002
+QUEENS,40-35 72 Street,11377,1,9/22/21,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.74598,-73.893442,4,25,265
+BRONX,265 east 161 street,10451,1,12/3/21,Violation,Violation,Violation,Meets standards,Violation,Meets standards,,,40.825928,-73.919514,4,16,18302
+BROOKLYN,345 Adams street,11201,1,6/23/22,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.6934,-73.988915,2,33,11
+MANHATTAN,125 worth street,10013,2,12/10/21,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,,,40.715428,-74.002673,1,1,31
+MANHATTAN,31 Chambers street,10007,1,11/21/20,Violation,Violation,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,40.713402,-74.004635,1,1,31
+BROOKLYN,345 Adams street,11201,2,6/23/22,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.6934,-73.988915,2,33,11
+BRONX,44 Metropolitan Oval,10462,1,10/19/20,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.837755,-73.859639,9,18,212
+BROOKLYN,138 Willoughby Street,11201,1,6/24/24,Meets standards,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Violation,Meets standards,40.692069,-73.983135,2,33,15
+MANHATTAN,80 Centre Street,10013,1,6/1/22,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.715447,-74.00189,1,1,29
+BROOKLYN,360 Adams street,11201,2,10/26/24,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.694122,-73.988904,2,33,11
+BRONX,1118 Grand Concourse,10456,1,11/21/20,Meets standards,Violation,Violation,Meets standards,Violation,Violation,Meets standards,Meets standards,40.832232,-73.919655,4,16,18102
+MANHATTAN,100 Centre street,10013,1,12/5/21,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29
+MANHATTAN,70 East 108th Street,10029,2,10/7/20,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Violation,Meets standards,Meets standards,40.794429,-73.947434,11,8,17401
+MANHATTAN,111 John St,10038,3,11/10/21,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.707671,-74.005764,1,1,1502
+BRONX,265 east 161 street,10451,1,12/15/22,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.825928,-73.919514,4,16,18302
+MANHATTAN,1056 Fifth Avenue,10028,1,6/24/20,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.782107,-73.959988,8,4,15002
+BROOKLYN,210 Joralemon street,11201,1,11/1/23,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.692459,-73.990491,2,33,9
+BRONX,100 Dreiser Loop,10475,1,2/19/23,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,,,40.878155,-73.82813,10,12,46201
+MANHATTAN,4 Irving Place,10003,2,5/16/20,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.734163,-73.988627,6,2,50
+MANHATTAN,145 West 44 Street,10036,2,12/16/20,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.756667,-73.984396,5,4,119
+BRONX,100 Dreiser Loop,10475,1,10/31/22,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,,,40.878155,-73.82813,10,12,46201
+MANHATTAN,520 12th Ave,10036,1,11/22/21,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Violation,Meets standards,Meets standards,40.762316,-74.000036,4,3,129
+MANHATTAN,1 centre street,10007,6,4/26/22,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.713001,-74.004181,1,1,29
+MANHATTAN,100 Centre Street,10013,4,5/26/22,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29
+MANHATTAN,812 Fifth Avenue,10065,1,4/26/21,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.766378,-73.971459,8,4,11401
+MANHATTAN,31 West 17 Street,10011,1,12/31/20,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.738418,-73.993393,5,3,54
+MANHATTAN,541 Lexington Avenue,10022,1,4/20/21,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.756162,-73.972593,6,4,100
+BROOKLYN,210 Joralemon Street,11201,1,11/28/20,Violation,Violation,Violation,Meets standards,Violation,Violation,Meets standards,Meets standards,40.692459,-73.990491,2,33,9
+MANHATTAN,100 Centre Street,10013,1,5/6/22,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29
+BROOKLYN,360 Adams street,11201,2,11/1/23,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.694122,-73.988904,2,33,11
+MANHATTAN,100 Centre Street,10013,4,5/26/22,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29
+MANHATTAN,955 Fifth Avenue,10075,1,10/1/20,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.775466,-73.96483,8,4,130
+MANHATTAN,80 centre street,10013,1,12/19/20,Violation,Violation,Violation,Violation,Violation,Violation,Meets standards,Meets standards,40.715447,-74.00189,1,1,29
+BROOKLYN,138 Willoughby Street,11201,2,6/20/22,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.692069,-73.983135,2,33,15
+MANHATTAN,1 centre street,10007,3,4/26/22,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.713001,-74.004181,1,1,29
+BRONX,265 east 161 street,10451,1,12/3/21,Violation,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.825928,-73.919514,4,16,18302
+MANHATTAN,160 Madison Street,10002,2,10/22/20,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Violation,Meets standards,Meets standards,40.712488,-73.991924,3,1,6
+MANHATTAN,60 centre street,10007,2,12/19/21,Violation,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.714467,-74.002503,1,1,29
+BROOKLYN,360 Adams street,11201,1,6/1/22,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.694122,-73.988904,2,33,11
+BROOKLYN,45 Monroe place,11201,1,6/23/22,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.695822,-73.992802,2,33,502
+BROOKLYN,360 Adams street,11201,2,6/1/22,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.694122,-73.988904,2,33,11
+BROOKLYN,138 Willoughby Street,11201,3,6/20/22,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.692069,-73.983135,2,33,15
+MANHATTAN,100 centre street,10013,1,12/5/20,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29
+MANHATTAN,136 East 57 Street,10022,1,3/13/21,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.760822,-73.968898,6,4,11203
+MANHATTAN,201 East 62nd Street,10065,1,7/7/20,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.763296,-73.964869,8,4,110
+MANHATTAN,125 worth street,10013,2,12/19/20,Violation,Meets standards,Violation,Violation,Violation,Violation,Meets standards,Meets standards,40.715428,-74.002673,1,1,31
+MANHATTAN,125 worth street,10013,1,5/23/22,Violation,Meets standards,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31
+BROOKLYN,1655 Flatbush Avenue,11210,1,10/7/20,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.630096,-73.944757,18,45,776
+BROOKLYN,360 Adams street,11201,1,10/26/24,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.694122,-73.988904,2,33,11
+MANHATTAN,1020 Fifth Avenue,10028,1,5/5/21,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.779558,-73.961531,8,4,142
+MANHATTAN,100 Centre Street,10013,1,5/6/22,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29
+MANHATTAN,125 worth street,10013,1,5/23/22,Violation,Meets standards,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31
+MANHATTAN,53 East 66th Street,10065,1,4/30/21,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.767746,-73.967668,8,4,122
+MANHATTAN,125 worth street,10013,1,12/10/21,Violation,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31
+BRONX,265 east 161 street,10451,1,11/9/24,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.825928,-73.919514,4,16,18302
+MANHATTAN,720 Park Avenue,10021,1,6/23/21,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Violation,Meets standards,Meets standards,40.76995,-73.964681,8,4,130
+MANHATTAN,812 Fifth Avenue,10065,1,5/14/20,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.766378,-73.971459,8,4,11401
+MANHATTAN,125 worth street,10013,2,5/23/22,Violation,Meets standards,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31
+MANHATTAN,100 centre street,10013,2,12/5/20,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29
+MANHATTAN,4 Irving Place,10003,2,3/28/23,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.734163,-73.988627,6,2,50
+BROOKLYN,138 Willoughby Street,11201,3,6/14/21,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.692069,-73.983135,2,33,15
+BRONX,1470 West Avenue,10462,1,11/3/20,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.83692,-73.861433,9,18,21602
+MANHATTAN,60 centre street,10007,1,12/19/21,Violation,Meets standards,Violation,Meets standards,Violation,Meets standards,,,40.714467,-74.002503,1,1,29
+BROOKLYN,45 monroe place,11201,1,11/28/21,Violation,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.695822,-73.992802,2,33,502
+MANHATTAN,125 worth street,10013,1,5/23/22,Violation,Meets standards,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31
+BROOKLYN,345 Adams Street,11201,1,11/28/20,Violation,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.6934,-73.988915,2,33,11
+BROOKLYN,345 Adams Street,11201,2,11/28/20,Violation,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.6934,-73.988915,2,33,11
+MANHATTAN,70 Lenox Ave,10026,1,5/4/21,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.800288,-73.95094,10,9,186
+BROOKLYN,45 Monroe Place,11201,1,12/12/20,Violation,Violation,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.695822,-73.992802,2,33,502
+STATEN ISLAND,35 hale street,10307,1,2/4/22,Meets standards,Meets standards,Meets standards,,Meets standards,,Violation,Violation,40.514811,-74.236572,3,51,248
+MANHATTAN,60 centre street,10007,1,12/19/20,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.714467,-74.002503,1,1,29
+MANHATTAN,125 worth street,10013,2,12/10/21,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.715428,-74.002673,1,1,31
+MANHATTAN,100 Centre street,10013,1,11/28/23,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29
+BROOKLYN,210 Joralemon street,11201,3,8/11/22,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.692459,-73.990491,2,33,9
+MANHATTAN,866 Third Ave,10022,1,7/8/21,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.757435,-73.9696,6,4,100
+MANHATTAN,60 centre street,10007,1,12/19/21,Violation,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.714467,-74.002503,1,1,29
+BRONX,640 East 137 Street,10454,2,11/4/21,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.805087,-73.91553,1,8,2701
+QUEENS,34-27 34th St,11106,1,1/1/21,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Violation,Meets standards,Violation,40.758027,-73.925263,1,26,57
+MANHATTAN,1 centre street,10007,1,4/26/22,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.713001,-74.004181,1,1,29
+MANHATTAN,111 John St,10038,2,11/10/21,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.707671,-74.005764,1,1,1502
+MANHATTAN,1 Centre street,10007,3,11/28/23,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.713001,-74.004181,1,1,29
+MANHATTAN,31 Chambers street,10007,2,12/10/21,Violation,Violation,Violation,Violation,Violation,Violation,,,40.713402,-74.004635,1,1,31
+BROOKLYN,190 Willoughby Street,11201,1,9/24/20,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.691958,-73.980152,2,35,31
+MANHATTAN,31 Chambers street,10007,2,11/21/20,Violation,Violation,Violation,Violation,Violation,Violation,Meets standards,Meets standards,40.713402,-74.004635,1,1,31
+MANHATTAN,70 East 108th Street,10029,1,10/6/20,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Violation,Meets standards,Meets standards,40.794429,-73.947434,11,8,17401
+MANHATTAN,1 centre street,10007,7,4/26/22,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.713001,-74.004181,1,1,29
+MANHATTAN,1 centre street,10007,5,4/26/22,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.713001,-74.004181,1,1,29
+BROOKLYN,300 Jay Street,11201,1,4/26/22,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.695547,-73.98714,2,33,13
+QUEENS,34-27 34th St,11106,1,1/1/21,,,,,,,Meets standards,Violation,40.758027,-73.925263,1,26,57
+MANHATTAN,30 West 70th St,10023,1,3/16/22,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.77533,-73.977922,7,6,153
+QUEENS,34-27 34th St,11106,1,1/1/21,Meets standards,,,Violation,Meets standards,Violation,Meets standards,Violation,40.758027,-73.925263,1,26,57
+MANHATTAN,100 Centre street,10013,1,11/27/24,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29
+BROOKLYN,18 Boerum St,11206,1,10/27/21,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.705321,-73.948954,1,34,491
+BROOKLYN,345 Adams street,11201,3,12/5/24,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.6934,-73.988915,2,33,11
+BROOKLYN,62 HANSON PLACE,11217,1,8/23/23,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Violation,Meets standards,40.685414,-73.975096,2,35,35
+MANHATTAN,100 Centre Street,10013,3,5/6/22,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29
+BROOKLYN,138 Willoughby Street,11201,5,6/14/21,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.692069,-73.983135,2,33,15
+BROOKLYN,45 monroe place,11201,1,11/16/23,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.695822,-73.992802,2,33,502
+BROOKLYN,210 Joralemon street,11201,2,11/1/23,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.692459,-73.990491,2,33,9
+BROOKLYN,138 Willoughby Street,11201,4,6/14/21,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.692069,-73.983135,2,33,15
+MANHATTAN,441 Ninth Ave,10001,2,11/2/21,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.753758,-73.996048,4,3,111
+BROOKLYN,210 Joralemon street,11201,2,8/11/22,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.692459,-73.990491,2,33,9
+BRONX,1560 Metropolitan Ave,10462,1,10/28/20,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.839754,-73.857904,9,18,21002
+BRONX,265 East 161 street,10451,1,11/21/20,Violation,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.825928,-73.919514,4,16,18302
+BROOKLYN,345 Adams Street,11201,3,11/28/20,Violation,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.6934,-73.988915,2,33,11
+BRONX,265 east 161 street,10451,1,11/17/23,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.825928,-73.919514,4,16,18302
+BROOKLYN,300 Jay Street,11201,2,5/13/22,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.695547,-73.98714,2,33,13
+MANHATTAN,301 East 66th Street,10065,1,3/11/21,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.764846,-73.960789,8,5,118
+MANHATTAN,382 Third Ave,10016,1,9/22/21,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.741641,-73.981112,6,2,68
+STATEN ISLAND,35 hale street,10307,1,2/4/22,Meets standards,Meets standards,Meets standards,,Meets standards,,Violation,Violation,40.514811,-74.236572,3,51,248
+MANHATTAN,100 Centre Street,10013,3,5/6/22,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29
+BROOKLYN,62 HANSON PLACE,11217,1,8/23/23,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Violation,Meets standards,40.685414,-73.975096,2,35,35
+MANHATTAN,145 West 44 Street,10036,2,12/16/20,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.756667,-73.984396,5,4,119
+BROOKLYN,345 adams street,11201,1,11/28/21,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,,,40.6934,-73.988915,2,33,11
+MANHATTAN,90 prince st,10012,1,9/29/21,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.72451,-73.998358,2,1,49
+MANHATTAN,181 Convent Avenue,10031,2,12/27/24,Meets standards,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Violation,Meets standards,40.819574,-73.949921,9,9,21703
+BRONX,1118 Grand Concourse,10456,1,11/21/21,Meets standards,Violation,Violation,Meets standards,Violation,Violation,,,40.832232,-73.919655,4,16,18102
+MANHATTAN,31 Chambers street,10007,1,12/10/21,Violation,Violation,Violation,Violation,Violation,Violation,,,40.713402,-74.004635,1,1,31
+MANHATTAN,160 Madison Street,10002,1,10/21/20,Meets standards,Meets standards,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.712488,-73.991924,3,1,6
+MANHATTAN,310 East 46th Street,10017,1,10/7/20,Meets standards,Meets standards,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.752154,-73.969834,6,4,90
+BROOKLYN,345 Adams street,11201,3,6/23/22,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.6934,-73.988915,2,33,11
+MANHATTAN,60 centre street,10007,2,12/19/20,Violation,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.714467,-74.002503,1,1,29
+BRONX,22 Metropolitan Oval,10462,1,10/26/20,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.838196,-73.85911,9,18,21002
+MANHATTAN,100 centre street,10013,3,12/5/20,Meets standards,Violation,Meets standards,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29
+MANHATTAN,100 Centre Street,10013,2,5/6/22,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29
+MANHATTAN,100 Centre Street,10013,2,5/6/22,Meets standards,Violation,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.716084,-74.001425,1,1,29
+MANHATTAN,111 John St,10038,1,4/4/22,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.707671,-74.005764,1,1,1502
+MANHATTAN,305 East 40th Street,10016,1,4/29/21,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.748469,-73.972954,6,4,88
+BROOKLYN,345 Adams street,11201,1,12/5/24,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.6934,-73.988915,2,33,11
+BROOKLYN,345 adams street,11201,3,11/28/21,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.6934,-73.988915,2,33,11
+BROOKLYN,210 Joralemon street,11201,1,8/11/22,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,Meets standards,40.692459,-73.990491,2,33,9
+BROOKLYN,138 Willoughby Street,11201,4,6/20/22,Meets standards,Meets standards,Violation,Meets standards,Violation,Meets standards,Meets standards,Meets standards,40.692069,-73.983135,2,33,15
+MANHATTAN,4 Sutton Place,10022,1,10/27/20,Meets standards,Meets standards,Violation,Violation,Meets standards,Meets standards,Meets standards,Meets standards,40.757512,-73.960576,6,5,10601

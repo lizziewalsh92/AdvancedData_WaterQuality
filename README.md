@@ -1,7 +1,7 @@
 # Directory
 
 ### **DEP Sample Site Analysis**: 
-Analysis of the DEP's 2024 water sample analyses. These samples were taken from 1,000 street-side sampling stations across the city, which is available on OpenDataNYC [here] (https://data.cityofnewyork.us/Environment/Drinking-Water-Quality-Distribution-Monitoring-Dat/bkwf-xfky/data_preview)
+Analysis of the DEP's 2024 water sample analyses. These samples were taken from 1,000 street-side sampling stations across the city, which is available on OpenDataNYC [here](https://data.cityofnewyork.us/Environment/Drinking-Water-Quality-Distribution-Monitoring-Dat/bkwf-xfky/data_preview)
 
 ### **MCL Comparisons**: 
 Tables that compare various contaminant Maximum Contaminant Levels across New York State, the U.S., Canada, the European Union, and California.

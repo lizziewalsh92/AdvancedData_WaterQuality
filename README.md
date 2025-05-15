@@ -1,7 +1,7 @@
 # Directory
 
 ### **DEP Sample Site Analysis**: 
-Analysis of the DEP's 2024 water sample analyses. These samples were taken from 1,000 street-side sampling stations across the city, which is available on OpenDataNYC [here](https://data.cityofnewyork.us/Environment/Drinking-Water-Quality-Distribution-Monitoring-Dat/bkwf-xfky/data_preview)
+Analysis of the DEP's 2024 water sample analyses. These samples were taken from 1,000 street-side sampling stations across the city, which is available on OpenDataNYC [here](https://data.cityofnewyork.us/Environment/Drinking-Water-Quality-Distribution-Monitoring-Dat/bkwf-xfky/data_preview).
 
 ### **MCL Comparisons**: 
 Tables that compare various contaminant Maximum Contaminant Levels across New York State, the U.S., Canada, the European Union, and California.
@@ -9,7 +9,9 @@ Tables that compare various contaminant Maximum Contaminant Levels across New Yo
 ### **WATER TANK AND LEAD PIPE DATA**: 
 Primary datasets of resident-requested lead pipe samples and water inspection reports. Also includes Jupyter notebook files analyzing and cleaning this data, and preparing it for visualization in Datawrapper.
   [Map of contaminated water tanks, 2020-present](https://www.datawrapper.de/_/nBf2l/?v=9)
+  
   [Map of over-limit lead samples across the city, 2014-2023](https://www.datawrapper.de/_/Bzzc4/?v=6)
+  
   [Map of over-limit lead samples, 2021-2022](https://www.datawrapper.de/_/ykxO3/?v=6)
 
 ### **Supplementary Analyses**: 

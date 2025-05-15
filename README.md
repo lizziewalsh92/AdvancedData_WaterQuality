@@ -19,7 +19,7 @@ Additional data and Jupyter notbeook files used to analyze data.
 HTML file and corrresponding lead data for resident interactive. Lead data was taken from the feature layer of the DEP's December 2024 [map of lead service lines] (https://nycdep.maps.arcgis.com/apps/View/index.html?appid=fe8c7a4dd6d24959ac765660ba3a7c1a)
 
 
-## <ins> Data Analysis Methodology</ins>
+# Analysis Methodology
 
 This project began as a personal investigation into whether the tap water in my New York City apartment was truly safe to drink. I quickly discovered that official DEP water sampling data doesn’t reflect what comes out of our faucets—those samples are taken from upstate reservoirs and public street stations. To find more relevant data, I turned to NYC OpenData and identified three datasets that offered insight into the water actually reaching residents: five years of city water tank inspection reports, and two separate datasets of apartment-specific lead and copper testing results requested by residents. I chose to analyze the lead datasets separately to avoid duplication errors and converted all results into standardized units that aligned with New York State’s Maximum Contaminant Levels. Using Python and Excel functions like countifs, averageifs, and dataset slicing, I summarized lead findings by zip code, showing how many samples exceeded legal thresholds, how far they exceeded them, and overall trends across the city.
 

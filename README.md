@@ -19,7 +19,7 @@ Primary datasets of resident-requested lead pipe samples and water inspection re
 Additional data and Jupyter notbeook files used to analyze data.
 
 ### **TANK + LEAD INTERACTIVE**: 
-HTML file and corrresponding lead data for resident interactive. Lead data was taken from the feature layer of the DEP's December 2024 [map of lead service lines](https://nycdep.maps.arcgis.com/apps/View/index.html?appid=fe8c7a4dd6d24959ac765660ba3a7c1a)
+HTML file and corrresponding lead data for resident interactive. Lead data was taken from the feature layer of the DEP's December 2024 [map of lead service lines](https://nycdep.maps.arcgis.com/apps/View/index.html?appid=fe8c7a4dd6d24959ac765660ba3a7c1a).
 
 
 # Analysis Methodology

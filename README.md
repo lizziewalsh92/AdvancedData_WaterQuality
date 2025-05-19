@@ -1,13 +1,13 @@
 # Folder Directory
 
 ### **DEP Sample Site Analysis**: 
-Analysis of the DEP's 2024 water sample analyses. These samples were taken from 1,000 street-side sampling stations across the city, which is available on OpenDataNYC [here](https://data.cityofnewyork.us/Environment/Drinking-Water-Quality-Distribution-Monitoring-Dat/bkwf-xfky/data_preview).
+Analysis of the DEP's 2024 water sample analyses. These samples were taken from 1,000 street-side sampling stations across the city, which is available on OpenDataNYC [here](https://data.cityofnewyork.us/Environment/Drinking-Water-Quality-Distribution-Monitoring-Dat/bkwf-xfky/data_preview). Jupyter Notebook file used to analyze this data was: NYCOpenData_2024Water.ipynb. *Note: this data was not used in the article as samples were clean.
 
 ### **MCL Comparisons**: 
-Tables that compare various contaminant Maximum Contaminant Levels across New York State, the U.S., Canada, the European Union, and California.
+Tables that compare various contaminant Maximum Contaminant Levels across New York State, the U.S., Canada, the European Union, and California. *Note: this information was removed from the article for brevity.
 
 ### **WATER TANK AND LEAD PIPE DATA**: 
-Primary datasets of resident-requested lead pipe samples and water inspection reports. Also includes Jupyter notebook files analyzing and cleaning this data, and preparing it for visualization in Datawrapper.
+Primary datasets of resident-requested lead pipe samples and water inspection reports. Also includes Jupyter notebook files analyzing and cleaning this data, and preparing it for visualization in Datawrapper. Jupyter Notebook files used to analyze the bulk of the data were: Tap_Lead_Copper Analysis.ipynb, CONCAT_2014-2023 Data.ipynb, Water Tank Data.ipynb
 
   [Map of contaminated water tanks, 2020-present](https://www.datawrapper.de/_/nBf2l/?v=9)
   
@@ -19,7 +19,7 @@ Primary datasets of resident-requested lead pipe samples and water inspection re
 Additional data and Jupyter notbeook files used to analyze data.
 
 ### **TANK + LEAD INTERACTIVE**: 
-HTML file and corrresponding lead data for resident interactive. Lead data was taken from the feature layer of the DEP's December 2024 [map of lead service lines](https://nycdep.maps.arcgis.com/apps/View/index.html?appid=fe8c7a4dd6d24959ac765660ba3a7c1a).
+HTML file and corrresponding lead data for resident interactive. Lead data was taken from the feature layer of the DEP's December 2024 [map of lead service lines](https://nycdep.maps.arcgis.com/apps/View/index.html?appid=fe8c7a4dd6d24959ac765660ba3a7c1a). Water tank data was taken from OpenDataNYC and analyzed (see WATER TANK AND LEAD PIPE DATA).
 
 
 # Analysis Methodology

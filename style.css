@@ -1,6 +1,7 @@
 html{
     background-image: linear-gradient(to right top, #a1a5ac, #00232d, #003c3b, #105535, #536922);
-    margin: 0 auto; }
+    margin: 0 auto; 
+    font-size: 100%;}
 body {
     margin-top: 100px;
     margin-bottom: 20px;
@@ -111,11 +112,37 @@ p {
   }
 
   body {
-    padding: 10px;
+    padding: 20px 15px;
+    margin-top: 60px;
   }
 
   h1, h2, h3 {
     padding-left: 5px;
     padding-right: 5px;
+    font-size: 1.8em;
+  }
+
+  p {
+    font-size: 1em;
+    padding: 0 5px;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+  }
+
+  figure {
+    float: none !important;
+    width: 100% !important;
+    margin: 20px 0 !important;
+  }
+
+  figcaption {
+    text-align: center;
+    font-size: 0.9em;
+    padding: 0 10px;
   }
 }

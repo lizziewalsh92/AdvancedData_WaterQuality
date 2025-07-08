@@ -7,13 +7,11 @@ Analysis of the DEP's 2024 water sample analyses. These samples were taken from 
 Tables that compare various contaminant Maximum Contaminant Levels across New York State, the U.S., Canada, the European Union, and California. *Note: this information was removed from the article for brevity.
 
 ### **WATER TANK AND LEAD PIPE DATA**: 
-Primary datasets of resident-requested lead pipe samples and water inspection reports. Also includes Jupyter notebook files analyzing and cleaning this data, and preparing it for visualization in Datawrapper. Jupyter Notebook files used to analyze the bulk of the data were: Tap_Lead_Copper Analysis.ipynb, CONCAT_2014-2023 Data.ipynb, Water Tank Data.ipynb
+I used NYC's OpenData set "Free Residential at-the-tap Lead and Copper Data" [here] (https://data.cityofnewyork.us/Environment/Free-Residential-at-the-tap-Lead-and-Copper-Data/k5us-nav4/data_preview), which was made public 02/26/2018, to create the lead map. 35,205 samples were collected and analyzed beginning in 2014, and no sample analyses have been added since October 2023, though the data set information is "updated annually". Water tank map was created using the "NYC Drinking Water Tank Inspections and Audits Compliance Results" [here] (https://data.cityofnewyork.us/Health/NYC-Drinking-Water-Tank-Inspections-and-Audits-Com/rytv-g5ui/data_preview) and Self-Reported Water Tank Inspections; this data set was last updated on April 29, 2025. Also includes Jupyter notebook files analyzing and cleaning this data, and preparing it for visualization in Datawrapper. Jupyter Notebook files used to analyze the bulk of the data were: Tap_Lead_Copper Analysis.ipynb, CONCAT_2014-2023 Data.ipynb, Water Tank Data.ipynb
 
   [Map of contaminated water tanks, 2020-present](https://www.datawrapper.de/_/nBf2l/?v=9)
   
-  [Map of over-limit lead samples across the city, 2014-2023](https://www.datawrapper.de/_/Bzzc4/?v=6)
-  
-  [Map of over-limit lead samples, 2021-2022](https://www.datawrapper.de/_/ykxO3/?v=6)
+  [Map of over-limit lead samples across the city, 2014-2023](UPDATE)
 
 ### **Supplementary Analyses**: 
 Additional raw data and Jupyter notebook files used to query and slice sample data.
